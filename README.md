@@ -15,7 +15,7 @@ $ pkg install python git
 $ pip install requests mechanize
 $ pip install bs4 future
 $ rm -rf ZMBF
-$ git clone https://github.com/Al-Vino/cracking4
+$ git clone https://github.com/Zero-1313/ZMBF
 $ cd ZMBF
 $ python run.py
 ```
