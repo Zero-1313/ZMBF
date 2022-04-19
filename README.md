@@ -1,3 +1,5 @@
+## VERSI 0.1
+
 ### WANING IJO IJO
 Tools Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
 Good Luck 👋
