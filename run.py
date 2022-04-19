@@ -14,6 +14,6 @@ if sys.version_info.major != 3:
 
 if __name__=='__main__':
     try:
-        os.system('zero.cpython-310.pyc')
+        os.system('python zero.cpython-310.pyc')
     except Exception as e:
         exit(str(e))
