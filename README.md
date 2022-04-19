@@ -25,6 +25,7 @@ $ pip install rich
 $ pip install mechanize
 $ pip install cython
 $ pip install licensing
+$ pip install clorama
 $ rm -rf ZMBF
 $ git clone https://github.com/Zero-1313/ZMBF
 $ cd ZMBF
