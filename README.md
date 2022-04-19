@@ -15,7 +15,7 @@ Download apk Termuxnya disini biar ngga eror🌟
 $ pkg update && apt upgrade 
 $ pkg install python git 
 $ pip install requests mechanize
-$ pip install bs4 future
+$ pip install bs4 futures cython
 $ rm -rf ZMBF
 $ git clone https://github.com/Zero-1313/ZMBF
 $ cd ZMBF
