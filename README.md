@@ -13,7 +13,8 @@ Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
 $ pkg update && apt upgrade 
-$ pkg install python git 
+$ pkg install git
+$ pkg install python
 $ pip install stdiomask
 $ pip install requests
 $ pip install bs4
