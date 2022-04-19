@@ -14,8 +14,14 @@ Download apk Termuxnya disini biar ngga eror🌟
 ```php
 $ pkg update && apt upgrade 
 $ pkg install python git 
-$ pip install requests mechanize
-$ pip install bs4 futures cython
+$ pip install stdiomask
+$ pip install requests
+$ pip install bs4
+$ pip install simplejson
+$ pip install requests
+$ pip install futures
+$ pip install rich
+$ pip install mechanize
 $ rm -rf ZMBF
 $ git clone https://github.com/Zero-1313/ZMBF
 $ cd ZMBF
