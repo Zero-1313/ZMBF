@@ -3,13 +3,14 @@
 ### WANING IJO IJO
 Tools Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
 Good Luck 👋
-## PAKE DOANG NGGA FOLLOW
+## Tampilan $ Hasil
+⭐ TAMPILAN MENU
+![deskripsi gambar](https://i.ibb.co/YTnzGm7/Screenshot-2022-04-20-11-45-52-525-com-termux.png)
 🌟 HASILNYA
 ![deskripsi gambar](https://i.ibb.co/xGVmTmj/Screenshot-2022-04-18-15-45-23-571-com-termux.png)
-![deskripsi gambar](https://i.ibb.co/QrsjvJN/Screenshot-2022-04-13-06-54-04-785-com-termux.png)
-Gambar Hanya Pemanis, Selebihnya Cobain Sendiri Aja!!!
+Gambar Hanya Contoh, Selebihnya Cobain Sendiri Aja!!!
 ## Instalation
-Download apk Termuxnya disini biar ngga eror🌟
+Download apk Termuxnya di sini anti eror 
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
 $ pkg update && apt upgrade 
@@ -41,5 +42,5 @@ Zero saat ini sedang ada promo loh, dengan harga yang bersahabat dengan kantong 
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/ZERO-1313) [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285814422209?text=Asalamualaikum+Bang+Zero)
-## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
+## KASIH BINTANG WOY🌟🌟🌟⭐⭐
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Terimakasih+Yang+Telah+Menggunakan+Script+ini+)
