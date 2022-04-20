@@ -3,7 +3,7 @@
 ### WANING IJO IJO
 Tools Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
 Good Luck 👋
-## Tampilan $ Hasil
+## Tampilan && Hasil
 ⭐ TAMPILAN MENU
 ![deskripsi gambar](https://i.ibb.co/YTnzGm7/Screenshot-2022-04-20-11-45-52-525-com-termux.png)
 🌟 HASILNYA
