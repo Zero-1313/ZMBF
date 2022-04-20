@@ -13,7 +13,7 @@ Gambar Hanya Contoh, Selebihnya Cobain Sendiri Aja!!!
 Download apk Termuxnya di sini anti eror 
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
-$ pkg update && apt upgrade 
+$ pkg update && pkg upgrade 
 $ pkg install git
 $ pkg install python
 $ pip install stdiomask
