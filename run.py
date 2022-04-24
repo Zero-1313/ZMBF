@@ -8,10 +8,6 @@ try:os.system('mkdir OK')
 except:pass 
 try:os.system('mkdir CP')
 except:pass
-try:os.system('mkdir Data')
-except:pass
-try:os.system('mkdir Key')
-except:pass
 
 if sys.version_info.major != 3:
   exit("\n%s!%s gunakan versi python3 "%(M,O))
