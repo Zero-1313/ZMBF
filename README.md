@@ -35,8 +35,8 @@ $ python run.py
 ## PRICE / HARGA
 Zero saat ini sedang ada promo loh, dengan harga yang bersahabat dengan kantong kita
 * 1 Minggu : Rp 15.000
-* 1 Bulan : Rp 40.000
-* 2 Bulan : Rp 75.000
+* 1 Bulan : Rp 50.000
+* 2 Bulan : Rp 100.000
 * 3 Bulan : Rp 120.000
 
 ## MY SOCIAL MEDIA
