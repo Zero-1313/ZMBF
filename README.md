@@ -41,6 +41,6 @@ Zero saat ini sedang ada promo loh, dengan harga yang bersahabat dengan kantong 
 
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/ZERO-1313) [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285814422209?text=Asalamualaikum+Bang+Zero)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285693439427?text=Asalamualaikum+Bang+Zero)
 ## KASIH BINTANG WOY🌟🌟🌟⭐⭐
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SEMOGA+SUKSES...🔥+)
