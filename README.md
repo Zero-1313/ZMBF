@@ -1,5 +1,6 @@
 ## VERSI 1.0 [NEW]
-
+Script Masih Tahap Perkembangan!!!
+Klo hasilnya CP maklumi😊
 ### WANING IJO IJO
 Tools Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
 Good Luck 👋
@@ -27,6 +28,7 @@ $ pip install mechanize
 $ pip install cython
 $ pip install licensing
 $ pip install colorama
+$ pip install proxy
 $ rm -rf ZMBF
 $ git clone https://github.com/Zero-1313/ZMBF
 $ cd ZMBF
