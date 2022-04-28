@@ -1,5 +1,5 @@
 ## VERSI 1.0 [NEW]
-Script Masih Tahap Perkembangan!!!
+Script Masih Tahap Pengembangan!!!
 Klo hasilnya CP maklumi😊
 ### WANING IJO IJO
 Tools Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
