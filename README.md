@@ -1,4 +1,4 @@
-## VERSI 1.0 [NEW]
+## VERSI 2.0 [NEW]
 Script Masih Tahap Pengembangan!!!
 Klo hasilnya CP maklumi😊
 ### WANING IJO IJO
