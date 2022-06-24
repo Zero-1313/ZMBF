@@ -1,3 +1,5 @@
+## SEKEDAR INFO
+Mohon maaf ya penggunaan SC ZMBF saya selalu author ingin berhenti membuat SC dan Pindah ke Bisnis Lain Terimakasih Banyak yg sudah menggunakan SC saya 🙏
 ## VERSI 2.0 [NEW]
 Script Masih Tahap Pengembangan!!!
 Klo hasilnya CP maklumi😊
