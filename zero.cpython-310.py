@@ -1,0 +1,1 @@
+print ("mohon maaf SC Sudah di hapus")
